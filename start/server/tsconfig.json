@@ -8,6 +8,7 @@
     "strict": false,
     "allowJs": true,
     "resolveJsonModule": true,
+    "types": [],
   },
   "include": ["src/**/*.ts", "src/**/*.json"],
 }

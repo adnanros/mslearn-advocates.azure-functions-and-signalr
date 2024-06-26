@@ -6,6 +6,6 @@
       "rootDir": "./src",
       "sourceMap": true,
       "strict": false,
-
-    }
+      "types": [],
+    }, 
   }
